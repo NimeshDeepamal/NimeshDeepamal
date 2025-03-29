@@ -18,9 +18,9 @@ Here are some ideas to get you started:
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NimeshDeepamal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=NimeshDeepamal&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<p><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshDeepamal&theme=gruvbox&hide_border=true" /></p>
-<br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NimeshDeepamal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nimesh" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api?username=NimeshDeepamal&show_icons=true&locale=en&theme=chartreuse-dark" alt="nimesh" width="280" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshDeepamal&show_icons=true&locale=en&theme=chartreuse-dark" alt="nimesh" width="300"/></p> <br>
+<br>
 
 <hr>
