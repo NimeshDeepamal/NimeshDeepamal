@@ -13,7 +13,7 @@ Hi, I'm Nimesh Deepamal!
 		<img src="https://komarev.com/ghpvc/?username=NimeshDeepamal&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshdeepamal" />
 	</a>
 	<a href="https://github.com/NimeshDeepamal">
-		<img src="https://img.shields.io/github/followers/nimeshdeepamal?label=Followers" alt="nimeshdeepamal" />
+		<img src="https://img.shields.io/github/followers/NimeshDeepamal?label=Followers" alt="nimeshdeepamal" />
 	</a>
 </p>
 <br/>
