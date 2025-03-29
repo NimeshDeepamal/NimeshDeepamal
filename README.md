@@ -20,6 +20,7 @@ Here are some ideas to get you started:
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NimeshDeepamal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=NimeshDeepamal&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshDeepamal&theme=gruvbox&hide_border=true" /></p>
 <br><br><br><br><br>
 
 <hr>
