@@ -45,10 +45,12 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NimeshDeepamal&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nimesh" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NimeshDeepamal&show_icons=true&locale=en&theme=algolia" alt="nimesh" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshDeepamal&show_icons=true&locale=en&theme=algolia" alt="nimesh" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NimeshDeepamal&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nimesh" width="32%" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NimeshDeepamal&show_icons=true&locale=en&theme=algolia" alt="nimesh" width="32%" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshDeepamal&show_icons=true&locale=en&theme=algolia" alt="nimesh" width="32%" height="165px"/>
 </p>
+
+
 
 <hr>
 <div align="center" width="100">
