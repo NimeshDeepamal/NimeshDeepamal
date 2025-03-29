@@ -28,7 +28,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 - 🔭 I’m currently working on Frontend Development & Mobile Development.
 - 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack and Mobile Developers.
+- 👯 I’m looking to collaborate with Fullstack and Mobile Developments.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Frontend and Mobile Development.
 - 🌐 You can see some of my projects on [my portfolio](https://nimeshdeepamal.vercel.app)
