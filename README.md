@@ -22,7 +22,7 @@ Hi, I'm Nimesh Deepamal!
 </p>
 
 ### About me🧑:
-I am Computer Science student.<br/>
+I am Computer Science undergraduate.<br/>
 I love FullStack Developement as well as Mobile Development.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
