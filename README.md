@@ -35,7 +35,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://nimeshdeepamal.vercel.app"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
@@ -47,7 +47,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NimeshDeepamal&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nimesh" width="32%" height="165px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=NimeshDeepamal&show_icons=true&locale=en&theme=algolia" alt="nimesh" width="32%" height="165px"/>
-</p>
+</p> -->
 
 
 
